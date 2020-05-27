@@ -1,5 +1,5 @@
 7.times do 
-  puts "Wingaridium Leviosa"
+  puts "Wingardium Leviosa"
 end
 
 
